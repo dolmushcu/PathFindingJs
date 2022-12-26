@@ -2,7 +2,7 @@
 
 Visualizer for Djikstra, A* etc. path finding algorithms. Made with html canvas and pure javascript.
 
-### Try out: [Here](https://dolmushcu.github.io/PathFinding/)
+### Try out: [Here](https://isengu.github.io/PathFinding/)
 
 ## Features
 - [x] Fully interactive on mobile devices.
